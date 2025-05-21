@@ -77,12 +77,5 @@ Outside of programming, I'm a **European Taekwon-do Champion**, **World Champion
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ivanyevsieiev&theme=tokyonight&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aligheri&theme=tokyonight&margin-w=10&margin-h=10" />
 </p>
-
----
-
-> “Learning code like mastering sport — both require discipline, repetition, and focus.”  
-> — *Ivan*
-
-
