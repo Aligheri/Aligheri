@@ -1,18 +1,88 @@
-<h1 align="center">Hi 👋, I'm Ivan</h1>
-<h3 align="center">Java Developer</h3>
-
-- 🔭 I’m currently working on [jwt-owasp-based-starter](https://github.com/Aligheri/jwt-owasp-based-starter)
-
-- 🌱 I’m currently learning **Spring, SpringBoot(modules), SpringAI**
-
-- 📫 How to reach me **ivanyevsieiev@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ivan-yevsieiev-6848162a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivan yevsieiev" height="30" width="40" /></a>
+<!-- Profile README for Ivan Yevsieiev -->
+<h1 align="center">Hi, I'm Ivan Yevsieiev 👋</h1>
+<p align="center">
+  <em>Java Junior Developer | Student at Kyiv Polytechnic University | European Taekwon-do Champion</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Spring+Boot+Learner;OOP+and+SQL+Focused;Studying+CS;Master+of+Sports+of+Ukraine&center=true&width=500&height=45">
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aligheri&show_icons=true&locale=en&layout=compact" alt="aligheri" /></p>
+---
+
+### 🧠 About Me
+
+I'm a Java junior developer from Kyiv, Ukraine. Currently pursuing a degree in Computer Science at **Kyiv Polytechnic University** and building projects to deepen my skills in backend development.
+
+- 💻 Completed a **14-month Java Developer Professional** course at JavaRush University  
+- 🔨 Developed a personal project called **MLF (Meta-Learning Framework)** using Java and Spring Boot, with basic Angular experience for frontend integration  
+- 🛡️ Implemented **JWT-based authorization** following OWASP principles
+
+Outside of programming, I'm a **European Taekwon-do Champion**, **World Championship medalist**, and **Master of Sports of Ukraine**, which reflects my focus, discipline, and resilience.
+
+---
+
+### 🛠️ Skills & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,docker,git,maven" />
+</p>
+
+- 🔹 **Languages & Concepts:** Java, OOP, SQL, Design Patterns (GoF)
+- 🔹 **Frameworks & Tools:** Spring Boot (Core, MVC, Security, Test), Hibernate, Liquibase
+- 🔹 **APIs:** RESTful Web Services, JDBC, Servlets, JSP
+- 🔹 **Security:** JWT, OWASP security practices
+- 🔹 **Databases:** MySQL, PostgreSQL
+- 🔹 **Dev Tools:** Git, Maven, Docker, Tomcat
+- 🔹 **Testing:** JUnit, Mockito, log4j
+- 🔹 **Basic Experience:** Angular, TypeScript, Kafka, Redis, RabbitMQ
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aligheri&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanyevsieiev&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+---
+
+### 🏆 Achievements
+
+- 🥇 European Taekwon-do Champion
+- 🥈 World Championship Medalist
+- 🥋 Master of Sports of Ukraine
+- 🧑‍💻 JavaRush Graduate – [Certificate](https://certificate.javarush.com/Ivan_Yevsieiev.pdf)
+- 🔧 Completed 10+ Java projects and solved 1000+ tasks
+
+---
+
+### 📫 Contact Me
+
+- 📧 ivanyevsieiev@gmail.com  
+- 📍 Kyiv, Ukraine  
+- 🧾 [JavaRush Certificate](https://certificate.javarush.com/Ivan_Yevsieiev.pdf)
+
+---
+
+### 📌 Interests
+
+- ♟️ Chess  
+- 🛹 Rollerblading  
+- 🧭 Traveling  
+- 💬 Coding side-projects  
+- 🧠 Continuous learning  
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ivanyevsieiev&theme=tokyonight&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+> “Learning code like mastering sport — both require discipline, repetition, and focus.”  
+> — *Ivan*
+
+
