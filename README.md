@@ -17,6 +17,7 @@ I'm a Java junior developer from Kyiv, Ukraine. Currently pursuing a degree in C
 - 💻 Completed a **14-month Java Developer Professional** course at JavaRush University  
 - 🔨 Developed a personal project called **MLF (Meta-Learning Framework)** using Java and Spring Boot, with basic Angular experience for frontend integration  
 - 🛡️ Implemented **JWT-based authorization** following OWASP principles
+- 🧩 Currently building **jwt-owasp-based-starter** – a reusable Spring Boot starter for JWT authentication, aligned with the [OWASP JWT Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/JSON_Web_Token_for_Java_Cheat_Sheet.html) for secure application development
 
 Outside of programming, I'm a **European Taekwon-do Champion**, **World Championship medalist**, and **Master of Sports of Ukraine**, which reflects my focus, discipline, and resilience.
 
