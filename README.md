@@ -43,7 +43,7 @@ Outside of programming, I'm a **European Taekwon-do Champion**, **World Champion
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aligheri&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanyevsieiev&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aligheri&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
