@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 
-I'm a Java junior developer from Kyiv, Ukraine. Currently pursuing a degree in Computer Science at **Kyiv Polytechnic University** and building projects to deepen my skills in backend development.
+I'm a Java developer from Kyiv, Ukraine. Currently pursuing a degree in Computer Science at **Kyiv Polytechnic University** and building projects to deepen my skills in backend development.
 
 - 💻 Completed a **14-month Java Developer Professional** course at JavaRush University  
 - 🔨 Developed a personal project called **MLF (Meta-Learning Framework)** using Java and Spring Boot, with basic Angular experience for frontend integration  
