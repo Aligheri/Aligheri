@@ -1,7 +1,7 @@
 <!-- Profile README for Ivan Yevsieiev -->
 <h1 align="center">Hi, I'm Ivan Yevsieiev 👋</h1>
 <p align="center">
-  <em>Java Junior Developer | Student at Kyiv Polytechnic University | European Taekwon-do Champion</em>
+  <em>Java Developer | Student at Kyiv Polytechnic University | European Taekwon-do Champion</em>
 </p>
 
 <p align="center">
