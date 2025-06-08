@@ -4,9 +4,7 @@
   <em>Java Developer | Student at Kyiv Polytechnic University | European Taekwon-do Champion</em>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Spring+Boot+Learner;OOP+and+SQL+Focused;Studying+CS;Master+of+Sports+of+Ukraine&center=true&width=500&height=45">
-</p>
+
 
 ---
 
