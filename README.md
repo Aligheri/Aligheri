@@ -59,8 +59,6 @@ Outside of programming, I'm a **European Taekwon-do Champion**, **World Champion
 ###  Contact Me
 
 -  ivanyevsieiev@gmail.com  
--  Kyiv, Ukraine  
--  [JavaRush Certificate](https://certificate.javarush.com/Ivan_Yevsieiev.pdf)
 - <a href="https://linkedin.com/in/ivan yevsieiev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivan yevsieiev" height="30" width="40" /></a>
 
 ---
